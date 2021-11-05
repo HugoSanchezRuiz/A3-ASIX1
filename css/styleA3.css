@@ -46,7 +46,7 @@ span {
     color: whitesmoke;
 }
 
-li < a {
+li>a {
     text-decoration: none
 }
 
